@@ -1,0 +1,8 @@
+create folder and file 
+git init
+git remote add origin ...
+git push 
+
+Work Work!
+
+Play Hard!
